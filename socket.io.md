@@ -14,5 +14,8 @@ By incorporating socket.io, we've successfully mitigated common collaboration hu
 - https://github.com/jspreadsheet/spreadsheet-react-server
 - https://jspreadsheet.com/demo
 
-![image](https://github.com/jspreadsheet/pro/assets/75275282/11a815ef-9f61-44c5-93b4-e80c3ad3e8c1)
-Paulo Rodrigues - Co-Founder
+
+\
+Paulo Rodrigues\
+Co-Founder\
+Jspreadsheet
