@@ -29,7 +29,7 @@ https://github.com/jspreadsheet/pro/issues
 
 <h2>License & Pricing</h2>
 Jspreadsheet Pro requires a license, for more information:
-https://jspreadsheet.com/me/pricing
+https://jspreadsheet.com/pricing
 
 <br>
 
